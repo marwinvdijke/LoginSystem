@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hzat0r7g9HEYoHG/UZ1hGI/2HJAHDHkPhKvP6ZEa+GJtT1mEYhogiEq896E243S754mhzUiTXKLnVp8QSdmrRg==",
+  "success": true,
+  "projectFilePath": "/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/LoginSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/marwinvandijke/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/marwinvandijke/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/marwinvandijke/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

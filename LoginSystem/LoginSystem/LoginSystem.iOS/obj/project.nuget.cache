@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ds+d39DxyW1pwbtd7HcrGHmaErJiye7Af1urUNnFH9pmszsoq3s/KHnMazclFgP2B93jK2YCX18egguzqJWbqA==",
+  "success": true,
+  "projectFilePath": "/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/LoginSystem.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/marwinvandijke/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
