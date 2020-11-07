@@ -1,0 +1,40 @@
+@string/appbar_scrolling_view_behavior;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/rootlayout.xml
+alpha;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/enterfromleft.xml
+alpha;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Release/res/layout/tabbar.xml
+android.support.v7.widget.RecyclerView;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Release/res/layout/toolbar.xml
+cache-path;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/22/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Release/res/values/colors.xml
+external-cache-path;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/22/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/22/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+FrameLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/bottomtablayout.xml
+item;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/values/styles.xml
+item;obj/Release/res/values/styles.xml
+LinearLayout;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/bottomtablayout.xml
+paths;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/22/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/values/styles.xml
+resources;obj/Release/res/values/colors.xml
+resources;obj/Release/res/values/styles.xml
+set;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/enterfromleft.xml
+set;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/enterfromright.xml
+set;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/exittoleft.xml
+set;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/exittoright.xml
+style;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/values/styles.xml
+style;obj/Release/res/values/styles.xml
+translate;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/enterfromleft.xml
+translate;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/enterfromright.xml
+translate;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/exittoleft.xml
+translate;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.Android/obj/Release/lp/23/jl/res/layout/rootlayout.xml

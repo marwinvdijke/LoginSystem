@@ -82,37 +82,51 @@
         <WarningLevel>4</WarningLevel>
         <ConsolePause>False</ConsolePause>
         <MtouchArch>ARM64</MtouchArch>
-        <CodesignProvision>Automatic:AppStore</CodesignProvision>
-        <CodesignKey>iPhone Distribution</CodesignKey>
+        <CodesignProvision>iOS Team Provisioning Profile: me.marwinvdijke.LoginSystem</CodesignProvision>
+        <CodesignKey>Apple Development: marwinvdijke@icloud.com (CQGN2HU8MV)</CodesignKey>
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     </PropertyGroup>
     <ItemGroup>
-        <Compile Include="Main.cs"/>
-        <Compile Include="AppDelegate.cs"/>
-        <None Include="Entitlements.plist"/>
-        <None Include="Info.plist"/>
-        <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="Main.cs" />
+        <Compile Include="AppDelegate.cs" />
+        <None Include="Entitlements.plist" />
+        <None Include="Info.plist" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-        <InterfaceDefinition Include="Resources\LaunchScreen.storyboard"/>
+        <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
             <Visible>false</Visible>
         </ImageAsset>
     </ItemGroup>
     <ItemGroup>
-        <Reference Include="System"/>
-        <Reference Include="System.Xml"/>
-        <Reference Include="System.Core"/>
-        <Reference Include="Xamarin.iOS"/>
+        <Reference Include="System" />
+        <Reference Include="System.Xml" />
+        <Reference Include="System.Core" />
+        <Reference Include="Xamarin.iOS" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640"/>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0-rc.2.20475.5" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0-rc.2.20475.5" />
+        <PackageReference Include="sqlite-net-pcl" Version="1.7.335" />
+        <PackageReference Include="Xamarin.Essentials" Version="1.6.0-pre3" />
+        <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640" />
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\LoginSystem\LoginSystem.csproj">
-            <Project>{EA8E8328-57D6-4318-8912-0168D5E14B13}</Project>
+            <Project>{05C9AEAD-5A76-4108-AC14-60765DB654E3}</Project>
             <Name>LoginSystem</Name>
         </ProjectReference>
     </ItemGroup>
-    <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets"/>
+    <ItemGroup>
+      <BundleResource Include="Resources\bg_360_760.png" />
+      <BundleResource Include="Resources\bg_375_667.png" />
+      <BundleResource Include="Resources\bg_375_812.png" />
+      <BundleResource Include="Resources\bg_412_870.png" />
+      <BundleResource Include="Resources\bg_414_736.png" />
+      <BundleResource Include="Resources\bg_414_896.png" />
+      <BundleResource Include="Resources\forestbg.jpg" />
+      <BundleResource Include="Resources\forestbg.png" />
+    </ItemGroup>
+    <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

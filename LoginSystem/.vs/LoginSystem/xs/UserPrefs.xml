@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{88D6709B-A960-4C8B-BFF0-96E29A0C97E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoginSystem.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-000478AA26E2802E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem/LoginSystem.iOS/Info.plist">
+    <Files>
+      <File FileName="LoginSystem/LoginSystem.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoginSystem" expanded="True">
+            <Node name="LoginSystem.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="AppStore|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.LoginSystem.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

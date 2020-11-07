@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginSystem.Views.LoginPage" >
+    <ContentPage.Resources>
+        <StyleSheet Source="StyleSheets/LoginPageStyle.css" />
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Grid VerticalOptions="CenterAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <StackLayout Grid.Row="0">
+                        <Entry StyleClass="entry" Placeholder="Username" IsSpellCheckEnabled="False"
+                               IsTextPredictionEnabled="False" FontSize="16" x:Name="EntryUserName" />
+                    </StackLayout>
+                    <StackLayout Grid.Row="1">
+                        <Entry StyleClass="entry" Placeholder="Password" Completed="Login_Clicked" IsPassword="True"
+                               FontSize="16" x:Name="EntryUserPassword" />
+                        <Label StyleId="error" x:Name="Error" FontSize="10" TextColor="Red" Text="Username or password is incorrect."
+                               IsVisible="False" />
+                    </StackLayout>
+                    <Button Grid.Row="2" StyleClass="button" Text="Login" Clicked="Login_Clicked" />
+                    <Button Grid.Row="3" StyleClass="button" Text="Sign Up" Clicked="Register_Clicked" />
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LoginSystem"
+             x:Class="LoginSystem.MainPage"
+             >
+
+    <ContentPage.Resources>
+        <StyleSheet Source="StyleSheets/MainStyle.css" />
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <StackLayout>
+            <Grid VerticalOptions="CenterAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                
+                <StackLayout StyleClass="header">
+                    <Label Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" Text="LoginSystem" FontSize="60" />
+                    <Label HorizontalOptions="CenterAndExpand" VerticalOptions="Start" Text="LoginSystem Demo Project"></Label>
+        </StackLayout>
+
+                <Button Grid.Row="1" StyleClass="button" Text="Login" Clicked="Btn_Login" x:Name="loginbutton" />
+                <Button Grid.Row="2" StyleClass="button" Text="Sign Up" Clicked="Btn_Signin" x:Name="signinbutton" />
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

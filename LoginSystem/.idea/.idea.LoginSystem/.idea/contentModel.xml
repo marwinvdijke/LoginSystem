@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.arch.lifecycle.runtime/1.1.1.3/proguard/monoandroid81" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.support.animated.vector.drawable/28.0.0.3/proguard/monoandroid81/proguard.txt" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.support.core.ui/28.0.0.3/proguard/monoandroid81/proguard.txt" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.support.design/28.0.0.3/proguard/monoandroid81/proguard.txt" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.support.media.compat/28.0.0.3/proguard/monoandroid81/proguard.txt" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.support.transition/28.0.0.3/proguard/monoandroid81/proguard.txt" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xamarin.android.support.v7.recyclerview/28.0.0.3/proguard/monoandroid81/proguard.txt" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xamarin.forms/4.4.0.991640/build/MonoAndroid10" t="Include">
+      <e p="proguard.cfg" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../../../../../../Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../../../../../../Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_LoginSystem.-848774648.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../../../../../../Developer/Xamarin/android-sdk-macosx/platforms/android-27/data/res" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="LoginSystem/LoginSystem" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LoginSystem.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="App.xaml.g.cs" t="Include" />
+              <e p="LoginSystem.AssemblyInfo.cs" t="Include" />
+              <e p="Views" t="Include">
+                <e p="HomePage.xaml.g.cs" t="Include" />
+                <e p="LoginPage.xaml.g.cs" t="Include" />
+                <e p="MainPage.xaml.g.cs" t="Include" />
+                <e p="RegistrationPage.xaml.g.cs" t="Include" />
+                <e p="StyleSheets" t="Include">
+                  <e p="LoginPageStyle.css.g.cs" t="Include" />
+                  <e p="MainStyle.css.g.cs" t="Include" />
+                  <e p="SigninPageStyle.css.g.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Tables" t="Include">
+          <e p="RegUserTable.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="HomePage.xaml" t="Include" />
+          <e p="HomePage.xaml.cs" t="Include" />
+          <e p="LoginPage.xaml" t="Include" />
+          <e p="LoginPage.xaml.cs" t="Include" />
+          <e p="MainPage.xaml" t="Include" />
+          <e p="MainPage.xaml.cs" t="Include" />
+          <e p="RegistrationPage.xaml" t="Include" />
+          <e p="RegistrationPage.xaml.cs" t="Include" />
+          <e p="StyleSheets" t="Include">
+            <e p="LoginPageStyle.css" t="Include" />
+            <e p="MainStyle.css" t="Include" />
+            <e p="SigninPageStyle.css" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="LoginSystem/LoginSystem.Android" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LoginSystem.Android.csproj" t="IncludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="designtime" t="Include">
+              <e p="Resource.designer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="drawable" t="Include">
+            <e p="bg_360_760.png" t="Include" />
+            <e p="bg_375_667.png" t="Include" />
+            <e p="bg_375_812.png" t="Include" />
+            <e p="bg_412_870.png" t="Include" />
+            <e p="bg_414_736.png" t="Include" />
+            <e p="bg_414_896.png" t="Include" />
+            <e p="forestbg.jpg" t="Include" />
+            <e p="forestbg.png" t="Include" />
+          </e>
+          <e p="layout" t="Include">
+            <e p="Tabbar.axml" t="Include" />
+            <e p="Toolbar.axml" t="Include" />
+          </e>
+          <e p="values" t="Include">
+            <e p="colors.xml" t="Include" />
+            <e p="styles.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="LoginSystem/LoginSystem.iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="Info.plist" t="Include" />
+        <e p="LoginSystem.iOS.csproj" t="IncludeRecursive" />
+        <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="bg_360_760.png" t="Include" />
+          <e p="bg_375_667.png" t="Include" />
+          <e p="bg_375_812.png" t="Include" />
+          <e p="bg_412_870.png" t="Include" />
+          <e p="bg_414_736.png" t="Include" />
+          <e p="bg_414_896.png" t="Include" />
+          <e p="forestbg.jpg" t="Include" />
+          <e p="forestbg.png" t="Include" />
+          <e p="LaunchScreen.storyboard" t="Include" />
+        </e>
+      </e>
+      <e p="LoginSystem.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

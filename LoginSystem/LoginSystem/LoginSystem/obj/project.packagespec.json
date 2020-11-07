@@ -26,15 +26,31 @@
   "frameworks": {
     "netstandard2.0": {
       "dependencies": {
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[5.0.0-rc.2.20475.5, )"
+        },
+        "Microsoft.Extensions.DependencyInjection.Abstractions": {
+          "target": "Package",
+          "version": "[5.0.0-rc.2.20475.5, )"
+        },
         "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.0.3, )",
           "autoReferenced": true
         },
+        "Xamarin.Essentials": {
+          "target": "Package",
+          "version": "[1.6.0-pre3, )"
+        },
         "Xamarin.Forms": {
           "target": "Package",
           "version": "[4.4.0.991640, )"
+        },
+        "sqlite-net-pcl": {
+          "target": "Package",
+          "version": "[1.7.335, )"
         }
       },
       "imports": [

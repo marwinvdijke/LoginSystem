@@ -15,7 +15,7 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/marwinvandijke/.nuget/NuGet/NuGet.Config"
+          "/Users/marwinvandijke/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -36,9 +36,25 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0-rc.2.20475.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0-rc.2.20475.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0-pre3, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.4.0.991640, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           }
         }
@@ -65,7 +81,7 @@
         "outputPath": "/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/marwinvandijke/.nuget/NuGet/NuGet.Config"
+          "/Users/marwinvandijke/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -87,15 +103,31 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0-rc.2.20475.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0-rc.2.20475.5, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0-pre3, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.4.0.991640, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [
@@ -108,7 +140,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }

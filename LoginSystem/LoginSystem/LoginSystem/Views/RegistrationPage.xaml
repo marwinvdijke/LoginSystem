@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginSystem.Views.RegistrationPage">
+    <ContentPage.Resources>
+        <StyleSheet Source="StyleSheets/SigninPageStyle.css" />
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Grid Margin="20,0,20,0" VerticalOptions="CenterAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    
+                    <StackLayout>
+                        <Entry FontSize="16"  Placeholder="Username" IsSpellCheckEnabled="False" IsTextPredictionEnabled="False"  x:Name="EntryUserName"></Entry>
+                    </StackLayout>
+                    <StackLayout Grid.Row="1">
+                        <Entry FontSize="16"  Placeholder="Full Name" Completed="Register" x:Name="EntryUserFullName"></Entry>
+                    </StackLayout>
+                    <StackLayout Grid.Row="2">
+                        <Entry FontSize="16"  Placeholder="Password" IsPassword="True"  x:Name="EntryUserPassword"></Entry>
+                    </StackLayout>
+                    <StackLayout Grid.Row="3">
+                        <Entry FontSize="16"  Placeholder="Email"  x:Name="EntryUserEmail"></Entry>
+                        <Label StyleId="error" x:Name="Error" FontSize="10" TextColor="Red" Text="This account already exists." IsVisible="False"></Label>
+                    </StackLayout>
+                    <StackLayout Grid.Row="4">
+                        <Button Text="Register" StyleClass="button" HorizontalOptions="CenterAndExpand" WidthRequest="100" Clicked="Register"></Button>
+                    </StackLayout>
+                    
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>
