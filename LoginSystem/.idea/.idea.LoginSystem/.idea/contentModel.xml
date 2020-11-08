@@ -33,6 +33,7 @@
                 <e p="MainPage.xaml.g.cs" t="Include" />
                 <e p="RegistrationPage.xaml.g.cs" t="Include" />
                 <e p="StyleSheets" t="Include">
+                  <e p="HomePage.css.g.cs" t="Include" />
                   <e p="LoginPageStyle.css.g.cs" t="Include" />
                   <e p="MainStyle.css.g.cs" t="Include" />
                   <e p="SigninPageStyle.css.g.cs" t="Include" />
@@ -88,8 +89,6 @@
             <e p="bg_412_870.png" t="Include" />
             <e p="bg_414_736.png" t="Include" />
             <e p="bg_414_896.png" t="Include" />
-            <e p="forestbg.jpg" t="Include" />
-            <e p="forestbg.png" t="Include" />
           </e>
           <e p="layout" t="Include">
             <e p="Tabbar.axml" t="Include" />
@@ -124,8 +123,6 @@
           <e p="bg_412_870.png" t="Include" />
           <e p="bg_414_736.png" t="Include" />
           <e p="bg_414_896.png" t="Include" />
-          <e p="forestbg.jpg" t="Include" />
-          <e p="forestbg.png" t="Include" />
           <e p="LaunchScreen.storyboard" t="Include" />
         </e>
       </e>

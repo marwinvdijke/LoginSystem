@@ -91,10 +91,5 @@ namespace LoginSystem.Views
             await Registerbt.ScaleTo(1, 50);
             await Navigation.PushModalAsync(new RegistrationPage(), false);
         }
-
-        private void RemoveError(object sender, EventArgs e)
-        {
-            Error.IsVisible = false;
-        }
     }
 }

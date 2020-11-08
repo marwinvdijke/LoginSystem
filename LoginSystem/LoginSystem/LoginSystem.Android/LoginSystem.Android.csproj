@@ -73,8 +73,6 @@
         <AndroidResource Include="Resources\drawable\bg_412_870.png" />
         <AndroidResource Include="Resources\drawable\bg_414_736.png" />
         <AndroidResource Include="Resources\drawable\bg_414_896.png" />
-        <AndroidResource Include="Resources\drawable\forestbg.jpg" />
-        <AndroidResource Include="Resources\drawable\forestbg.png" />
         <AndroidResource Include="Resources\layout\Tabbar.axml" />
         <AndroidResource Include="Resources\layout\Toolbar.axml" />
         <AndroidResource Include="Resources\values\styles.xml" />
