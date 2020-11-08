@@ -54,6 +54,7 @@
           <e p="RegistrationPage.xaml" t="Include" />
           <e p="RegistrationPage.xaml.cs" t="Include" />
           <e p="StyleSheets" t="Include">
+            <e p="HomePage.css" t="Include" />
             <e p="LoginPageStyle.css" t="Include" />
             <e p="MainStyle.css" t="Include" />
             <e p="SigninPageStyle.css" t="Include" />

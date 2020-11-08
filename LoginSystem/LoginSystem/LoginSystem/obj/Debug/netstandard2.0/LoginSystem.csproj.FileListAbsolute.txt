@@ -16,3 +16,4 @@
 /Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/obj/Debug/netstandard2.0/Views/StyleSheets/LoginPageStyle.css.g.cs
 /Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/obj/Debug/netstandard2.0/Views/StyleSheets/MainStyle.css.g.cs
 /Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/obj/Debug/netstandard2.0/Views/StyleSheets/SigninPageStyle.css.g.cs
+/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/obj/Debug/netstandard2.0/Views/StyleSheets/HomePage.css.g.cs

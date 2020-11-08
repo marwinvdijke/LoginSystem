@@ -3,7 +3,26 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LoginSystem.Views.HomePage">
+    <ContentPage.Resources>
+        <StyleSheet Source="StyleSheets/HomePage.css" />
+    </ContentPage.Resources>
     <ContentPage.Content>
-        <Button Text="Logout" TextColor="#0077be" Clicked="Logout"></Button>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            
+            <ListView x:Name="ListView"></ListView>
+            <!-- <StackLayout Grid.Row="0"> -->
+            <!--     <Label Text="" x:Name="FullName"></Label> -->
+            <!--     <Label Text="" x:Name="UserName"></Label> -->
+            <!--     <Label Text="" x:Name="Email"></Label> -->
+            <!--      -->
+            <!-- </StackLayout> -->
+            
+            <Button StyleClass="button" Text="Logout" TextColor="#0077be" Clicked="Logout" Grid.Row="2"></Button>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

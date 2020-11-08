@@ -1,23 +1,36 @@
 ﻿<Properties StartupConfiguration="{88D6709B-A960-4C8B-BFF0-96E29A0C97E6}|Default">
-  <MonoDevelop.Ide.ItemProperties.LoginSystem.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-000478AA26E2802E" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem/LoginSystem.iOS/Info.plist">
+  <MonoDevelop.Ide.ItemProperties.LoginSystem.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CBE79C3E-F99E-4CBE-A105-1B509DA31157" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem/LoginSystem/App.xaml.cs">
     <Files>
       <File FileName="LoginSystem/LoginSystem.iOS/Info.plist" />
+      <File FileName="LoginSystem/LoginSystem.iOS/Main.cs" Line="16" Column="40" />
+      <File FileName="LoginSystem/LoginSystem/Tables/RegUserTable.cs" Line="13" Column="2" />
+      <File FileName="LoginSystem/LoginSystem/Views/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="LoginSystem/LoginSystem/Views/RegistrationPage.xaml" Line="1" Column="1" />
+      <File FileName="LoginSystem/LoginSystem/Views/RegistrationPage.xaml.cs" Line="73" Column="44" />
+      <File FileName="LoginSystem/LoginSystem/App.xaml" Line="1" Column="1" />
+      <File FileName="LoginSystem/LoginSystem/App.xaml.cs" Line="14" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LoginSystem" expanded="True">
-            <Node name="LoginSystem.iOS" expanded="True">
-              <Node name="Info.plist" selected="True" />
+            <Node name="LoginSystem" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="RegistrationPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
             </Node>
+            <Node name="LoginSystem.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="AppStore|iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.LoginSystem.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

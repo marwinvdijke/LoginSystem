@@ -14,36 +14,60 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][20x20][][][3x][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon60.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][20x20][][][2x][][]</string>
+				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon58.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][40x40][][][2x][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "Icon80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][29x29][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon87.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon180.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -74,24 +98,12 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon152.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][29x29][][][3x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon87.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -110,36 +122,36 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][29x29][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon58.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon180.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][40x40][][][2x][][]</string>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "Icon80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon152.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][20x20][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon40.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -158,30 +170,6 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon58.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
 				<string>./AppIcon.appiconset/[][ipad][29x29][][][1x][][]</string>
 			</array>
 			<key>catalog</key>
@@ -194,7 +182,7 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][20x20][][][2x][][]</string>
+				<string>./AppIcon.appiconset/[][ipad][20x20][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
@@ -218,12 +206,24 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][29x29][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "Icon120.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "Icon58.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][20x20][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon60.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>

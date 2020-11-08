@@ -15,7 +15,7 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/marwinvandijke/.config/NuGet/NuGet.Config"
+          "/Users/marwinvandijke/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid81"
@@ -90,7 +90,7 @@
         "outputPath": "/Users/marwinvandijke/Library/Mobile Documents/com~apple~CloudDocs/Projects/C#/LoginSystem/LoginSystem/LoginSystem/LoginSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/marwinvandijke/.config/NuGet/NuGet.Config"
+          "/Users/marwinvandijke/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -149,7 +149,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -24,11 +24,11 @@
                     <StackLayout Grid.Row="1">
                         <Entry StyleClass="entry" Placeholder="Password" Completed="Login_Clicked" IsPassword="True"
                                FontSize="16" x:Name="EntryUserPassword" />
-                        <Label StyleId="error" x:Name="Error" FontSize="10" TextColor="Red" Text="Username or password is incorrect."
+                        <Label StyleId="error" x:Name="Error" FontSize="10" TextColor="Red"
                                IsVisible="False" />
                     </StackLayout>
-                    <Button Grid.Row="2" StyleClass="button" Text="Login" Clicked="Login_Clicked" />
-                    <Button Grid.Row="3" StyleClass="button" Text="Sign Up" Clicked="Register_Clicked" />
+                    <Button Grid.Row="2" StyleClass="button" Text="Login" Clicked="Login_Clicked" x:Name="Loginbt"/>
+                    <Button Grid.Row="3" StyleClass="button" Text="Sign Up" Clicked="Register_Clicked" x:Name="Registerbt"/>
                 </Grid>
             </StackLayout>
         </ScrollView>
